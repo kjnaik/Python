@@ -1,10 +1,5 @@
-lst=[1,2,8,3,4,65]
+a=(1,2,3,4,5)
 
-#lst.remove(lst[3])
+a(1:3)
 
-#print(lst)
-
-sorted=sorted(lst)
-print(sorted)
-a=sorted.reverse()
 print(a)
